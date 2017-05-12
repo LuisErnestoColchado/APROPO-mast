@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_puntos"
+            android:icon="@drawable/ic_puntos"
+            android:title="@string/menu_puntos" />
+        <item
+            android:id="@+id/nav_navruteo"
+            android:icon="@drawable/ic_ruteo"
+            android:title="@string/menu_ruteo" />
+        <item
+            android:id="@+id/nav_navsincronizacion"
+            android:icon="@drawable/ic_sync"
+            android:title="@string/menu_sincronizacion" />
+        <item
+            android:id="@+id/nav_reportes"
+            android:icon="@drawable/ic_report"
+            android:title="@string/menu_reportes" />
+    </group>
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_cerrarsesion"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/menu_cerrarsesion" />
+    </group>
+</menu>

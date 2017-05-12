@@ -1,0 +1,33 @@
+<resources>
+    <!--Header-->
+    <string name="app_name">APROPO</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_copyright">APROPO 2017 - Diseñado por Fabrizzio Chávez</string>
+    <string name="image">Imagen</string>
+    <string name="text">Texto</string>
+    <string name="search">Buscar</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+    <!--TEXTOS LOGIN-->
+    <string name="login_Usuario">Usuario</string>
+    <string name="login_Clave">Clave</string>
+    <string name="login_forgot">¿Olvidaste tu clave?</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="login_usuario_vacio">Ingrese un usuario</string>
+    <string name="login_password_vacio">Ingrese una clave</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!--Navigation Drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--TEXTOS MENU LATERAL-->
+    <string name="menu_puntos">Puntos de Venta</string>
+    <string name="menu_ruteo">Ruteo Diario</string>
+    <string name="menu_sincronizacion">Sincronización</string>
+    <string name="menu_reportes">Reportes</string>
+    <string name="menu_cerrarsesion">Cerrar Sesión</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
